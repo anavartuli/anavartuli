@@ -30,7 +30,7 @@ I'm Ana Carolina, a Analysis and Systems Development student. I am currently lea
 
 </div>
 
-## Github Status
+##
 
 <div>
   <a href="https://github.com/anavartuli">
@@ -38,7 +38,4 @@ I'm Ana Carolina, a Analysis and Systems Development student. I am currently lea
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anavartuli&layout=compact&langs_count=16&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5"/>
 </div>
 
-##
-
-![Snake animation](https://github.com/anavartuli/anavartuli/blob/output/github-contribution-grid-snake.svg)
 
