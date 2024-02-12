@@ -1,8 +1,36 @@
-## Olá! Eu sou a Ana Carolina 👩🏻‍💻
+## Hi!
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=catppuccin_mocha&line1=JavaScript,JavaScript,F7DF1E;css3,css3,1572B6;html5,html5,E34F26;" alt="My Tech Stack" />
+I'm Ana Carolina, a Analysis and Systems Development student. I am currently learning Java and JavaScript and deepening my knowledge in CSS.
 
-##
+## My tech stack
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+</div>
+
+## Design stack
+
+<div>
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</div>
+
+## Get in touch
+
+<div>
+
+  <a href="mailto:vartuliana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
+
+## Github Status
 
 <div>
   <a href="https://github.com/anavartuli">
@@ -14,12 +42,3 @@
 
 ![Snake animation](https://github.com/anavartuli/anavartuli/blob/output/github-contribution-grid-snake.svg)
 
-##
-
-<div>
-
-  <a href="mailto:vartuliana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anavartuli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://discordapp.com/users/flowerscent#6298"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-</div>
